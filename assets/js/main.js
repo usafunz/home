@@ -70,7 +70,7 @@ if(form){
   bd.innerHTML = `
     <div class="modal">
       <h3>Policy Notice</h3>
-      <p>Are you accepting our policy to play <strong>Pet Sanctuary</strong>?. Perfect for quick sessions with endless replayability.</p>
+      <p>Are you accepting our policy to play <strong>Batus</strong>?. Perfect for quick sessions with endless replayability.</p>
       <div style="display:flex;gap:10px;flex-wrap:wrap">
         <button class="btn" id="age-yes">Yes, Accept</button>
         <button class="btn ghost" id="age-no">Close</button>
